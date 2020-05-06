@@ -1,2 +1,2 @@
-# CartoStyling
+# Experimental style for GIS vector
  
