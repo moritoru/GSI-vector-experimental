@@ -1,4 +1,4 @@
-# Experimental style for GIS vector
+# Experimental style for GSI vector
  
 This repository stores my experimental styles for GSI vector.
 https://maps.gsi.go.jp/vector/#12/35.675133/139.734845/&ls=vstd&disp=1&d=l
